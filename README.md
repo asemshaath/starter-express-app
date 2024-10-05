@@ -112,17 +112,6 @@ The application currently supports two basic endpoints:
 
 ## Project Structure
 
-The project structure is simple and easy to extend as needed:
-
-\`\`\`
-starter-express-app/
-  ├── src/
-  │   └── index.js       # Main server file
-  ├── package.json       # Project configuration and dependencies
-  ├── README.md          # Project documentation
-  └── node_modules/      # Dependencies (created by npm install)
-\`\`\`
-
 - **src/index.js**: Contains the core Express server code.
 - **package.json**: Defines project metadata, scripts, and dependencies.
 - **README.md**: This file, containing project documentation.
