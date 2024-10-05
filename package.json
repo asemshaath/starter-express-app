@@ -1,0 +1,24 @@
+{
+  "name": "starter-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",  
+  "scripts": {
+    "test": "",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asemshaath/starter-express-app.git"
+  },
+  "author": "Asem Shaath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asemshaath/starter-express-app/issues"
+  },
+  "homepage": "https://github.com/asemshaath/starter-express-app#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
